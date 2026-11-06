@@ -3,6 +3,18 @@
     <channel>
         <title>Carnet</title>
         <item>
+            <title>0.7</title>
+            <pubDate>Fri, 06 Nov 2026 16:36:58 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://bastbbt.github.io/carnet-releases/Carnet-0.7.md</sparkle:releaseNotesLink>
+            <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet-0.7.zip" length="2581966" type="application/octet-stream" sparkle:edSignature="Lg/czOlvahwZ8+SWsluXtt/Db+g8VK2ES7Su67FAziGff5hua//Yi7R2pH43JhgNAracTGH2yGU148F7l2bwAw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet7-6.delta" sparkle:deltaFrom="6" length="436062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pnenej21hqmRD1bn+dOroDLoTyTIXRZiC6YvePiiuSG5lWzrkze/n0yMKSZe39hHp2yIA2Qu4XuiEmVC+bzdDg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.6</title>
             <pubDate>Fri, 06 Nov 2026 06:59:32 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
