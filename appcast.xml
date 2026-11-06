@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Carnet</title>
+        <item>
+            <title>0.6</title>
+            <pubDate>Fri, 06 Nov 2026 06:59:32 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet-0.6.zip" length="2423483" type="application/octet-stream" sparkle:edSignature="SXyivxg864GByW0Yes+LcNyLnWA7izKpHB6iNE5MmWlStvz/QIqlK88OpgBw9bxtA257DZp4nDAb5HXHxR1KCA=="/>
+        </item>
+    </channel>
+</rss>
