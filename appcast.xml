@@ -3,6 +3,20 @@
     <channel>
         <title>Carnet</title>
         <item>
+            <title>0.9</title>
+            <pubDate>Mon, 09 Nov 2026 22:36:22 +0100</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>0.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://bastbbt.github.io/carnet-releases/Carnet-0.9.md</sparkle:releaseNotesLink>
+            <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet-0.9.zip" length="2588829" type="application/octet-stream" sparkle:edSignature="LlO28SLN0Fedl6ElyJ+wuOK3m1r1Vw9u68ekQoezRQESMOJGZWQ3b/RQw7WhfY1SeQ/rvgWjQ0PnbDgCkCWoCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet9-8.delta" sparkle:deltaFrom="8" length="139902" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="U2Jdj7EHrY9spdGEtNP7IWvfzeJiYCjb83UCUgzXJ5OeAXoajbvZOnX0waIQEfWDwkwu+2CtUP+ref0a1qowBw=="/>
+                <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet9-7.delta" sparkle:deltaFrom="7" length="202698" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="KNWSJp6kNqCSeBdkTClHOeRPOzDez1K56bPLEhzazMbNed0HjGlEzw804Ow5ejYChOjKrXpVibsENamqWXf9Dg=="/>
+                <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet9-6.delta" sparkle:deltaFrom="6" length="450634" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iyEwPiPmWT+soS544vzxNUqs2EEMgw64WNFNtpRLBeA810DzQLXr6pdE1SnGs31dB3zHut5Hm+wUg4Xq9BjwDQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.8</title>
             <pubDate>Mon, 09 Nov 2026 22:24:40 +0100</pubDate>
             <sparkle:version>8</sparkle:version>
@@ -26,14 +40,6 @@
             <sparkle:deltas>
                 <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet7-6.delta" sparkle:deltaFrom="6" length="436062" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Pnenej21hqmRD1bn+dOroDLoTyTIXRZiC6YvePiiuSG5lWzrkze/n0yMKSZe39hHp2yIA2Qu4XuiEmVC+bzdDg=="/>
             </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.6</title>
-            <pubDate>Fri, 06 Nov 2026 06:59:32 +0100</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>0.6</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://bastbbt.github.io/carnet-releases/updates/Carnet-0.6.zip" length="2423483" type="application/octet-stream" sparkle:edSignature="SXyivxg864GByW0Yes+LcNyLnWA7izKpHB6iNE5MmWlStvz/QIqlK88OpgBw9bxtA257DZp4nDAb5HXHxR1KCA=="/>
         </item>
     </channel>
 </rss>
